@@ -19,3 +19,4 @@ git clone https://github.com/rubensortizjr-arch/simple-ml-student-predictor.git
 cd simple-ml-student-predictor
 pip install -r requirements.txt
 python main.py
+```
